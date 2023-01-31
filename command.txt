@@ -1,0 +1,20 @@
+    1  git --version
+    2  sudo apt update
+    3  sudo yum -y update
+    4  git config --global user.name "acamp2209"
+    5  git config --global user.email "acamp2209@live.com"
+    6  gh repo clone https://acamp2209/Cloud9_252.git
+    7  git repo clone https://acamp2209/Cloud9_252.git
+    8  git clone https://acamp2209/Cloud9_252.git
+    9  git clone git@github.com:acamp2209/Cloud9_252.git
+   10  git clone https://github.com/acamp2209/Cloud9_252.git
+   11  ls
+   12  cd cloud9_252
+   13  cd Cloud9_252
+   14  ls
+   15  git status
+   16  git add --all
+   17  git status
+   18  git commit -m "Added information about birds, insects and reptiles."
+   19  git push
+   20  history > command.txt
